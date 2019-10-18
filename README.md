@@ -5,3 +5,9 @@ Dairy industry collects raw milk from milk producers by transporting it in a var
   1. Selection of Transportation Vehicle
   2. Selection of Vehicle Capacity
   3. Milk Collection Route Design
+![Overview] (https://github.com/jainamshah17/capacited-vehicle-routing/blob/master/Images/magic.PNG)
+#### Algorithm
+The input parameters for the CVRP Algorithm are: List of all available transportaion vehicles, capacities of all the vehicles, co-ordinates of all the locations (from where milk is to be collected).
+![Before] (https://github.com/jainamshah17/capacited-vehicle-routing/blob/master/Images/cvrp_b4.PNG)
+It provides the most optimized routes, utilizing the vehicle capacities i.e. vehicle has to travel the least distance collecting maximum raw milk.
+![After] (https://github.com/jainamshah17/capacited-vehicle-routing/blob/master/Images/cvrp_after.PNG)
